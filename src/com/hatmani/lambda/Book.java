@@ -1,4 +1,4 @@
-package com.hatmani.lambda.exemple;
+package com.hatmani.lambda;
 
 public class Book {
     private int id;

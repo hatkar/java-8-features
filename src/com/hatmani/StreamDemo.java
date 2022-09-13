@@ -1,7 +1,7 @@
-package com.hatmani.lambda;
+package com.hatmani;
 
-import com.hatmani.lambda.exemple.Book;
-import com.hatmani.lambda.exemple.BookDAO;
+import com.hatmani.lambda.Book;
+import com.hatmani.lambda.BookDAO;
 
 import java.util.Comparator;
 import java.util.List;

@@ -1,6 +1,5 @@
-package com.hatmani.lambda.exemple;
+package com.hatmani.lambda;
 
-import javax.net.ssl.CertPathTrustManagerParameters;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;

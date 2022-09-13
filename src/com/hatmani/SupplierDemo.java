@@ -1,4 +1,4 @@
-package com.hatmani.lambda;
+package com.hatmani;
 
 import java.util.function.Supplier;
 

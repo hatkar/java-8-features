@@ -1,7 +1,7 @@
-package com.hatmani.lambda;
+package com.hatmani;
 
-import com.hatmani.lambda.MapFlatMap.Customer;
-import com.hatmani.lambda.MapFlatMap.CustomerDatabase;
+import com.hatmani.MapFlatMap.Customer;
+import com.hatmani.MapFlatMap.CustomerDatabase;
 
 import java.util.List;
 

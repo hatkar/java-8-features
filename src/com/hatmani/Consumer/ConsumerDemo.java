@@ -1,4 +1,4 @@
-package com.hatmani.lambda.Consumer;
+package com.hatmani.Consumer;
 
 import java.util.Arrays;
 import java.util.List;

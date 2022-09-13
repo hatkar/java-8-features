@@ -1,4 +1,4 @@
-package com.hatmani.lambda.exemple;
+package com.hatmani.lambda;
 
 import java.util.ArrayList;
 import java.util.List;

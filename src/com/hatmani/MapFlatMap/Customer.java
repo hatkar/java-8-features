@@ -1,4 +1,4 @@
-package com.hatmani.lambda.MapFlatMap;
+package com.hatmani.MapFlatMap;
 
 import java.util.List;
 
